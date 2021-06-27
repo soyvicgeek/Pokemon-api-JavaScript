@@ -4,7 +4,9 @@
 <br/>
 </div>
 <br/>
+
 A RESTful API for Pokémon - [pokeapi.co](https://pokeapi.co)
+<br/>
 > Pokémon API implemented with Javascript vanilla.
 
-[![IMAGE ALT TEXT](http://link)](https://github.com/soyvicgeek "Preview image")
+[![IMAGE ALT TEXT](https://raw.githubusercontent.com/soyvicgeek/Pokemon-api-JavaScript/main/img/poke-preview.jpg)](https://github.com/soyvicgeek "Preview image")
